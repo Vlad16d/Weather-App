@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "JZbmOoXVrJmMIf4WSNdDmDcQV5wd4K2YatC12D+io4k=",
+  "Source": "WA",
+  "BasePath": "_content/WA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WA\\wwwroot",
+      "Source": "WA",
+      "ContentRoot": "C:\\Users\\imaf2\\source\\repos\\WA\\WA\\wwwroot\\",
+      "BasePath": "_content/WA",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\imaf2\\source\\repos\\WA\\WA\\wwwroot\\StyleSheet.css",
+      "SourceId": "WA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\imaf2\\source\\repos\\WA\\WA\\wwwroot\\",
+      "BasePath": "_content/WA",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
